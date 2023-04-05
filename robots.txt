@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /play/
+Disallow: /legacy/
+Disallow: /v1/
+Disallow: /v2_1/
+Disallow: /v2_2/
+Disallow: /v2_2_2/
+Disallow: /v2_2_3/
+Disallow: /v2_2_1_beta/
+Disallow: /v2_2_beta/
